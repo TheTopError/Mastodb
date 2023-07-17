@@ -1,0 +1,9 @@
+{
+  "amount_of_instances": 10,
+  "min_users": null,
+  "min_active_users": null,
+  "amount_statuses": null,
+  "languages": null,
+  "include_closed": false,
+  "min_obs_score": null
+}

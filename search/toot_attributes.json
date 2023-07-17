@@ -1,0 +1,12 @@
+{
+  "date": true,
+  "content": true,
+  "html_parsed_content": true,
+  "language": true,
+  "url": true,
+  "uid": true,
+  "sensitive": true,
+  "favourites_count": true,
+  "tags": true,
+  "media": true
+}
