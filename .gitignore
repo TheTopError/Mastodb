@@ -1,0 +1,13 @@
+tests/
+__pycache__/
+config/dbconfig.json
+config/api_token.json
+
+*.log
+.idea
+
+# Latex
+*.bcf
+*.run.xml
+*.synctex.gz
+
