@@ -10,4 +10,11 @@ config/api_token.json
 *.bcf
 *.run.xml
 *.synctex.gz
+*.aux
+*.fdb_latexmk
+*.fls
+*.nav
+*.out
+*.snm
+*.toc
 
